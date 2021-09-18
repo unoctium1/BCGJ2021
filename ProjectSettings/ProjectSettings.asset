@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
-  productName: BCGJ2021
+  companyName: AbelW
+  productName: InfiniteZuma
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -46,7 +46,7 @@ PlayerSettings:
   defaultScreenHeight: 768
   defaultScreenWidthWeb: 960
   defaultScreenHeightWeb: 600
-  m_StereoRenderingPath: 0
+  m_StereoRenderingPath: 2
   m_ActiveColorSpace: 1
   m_MTRendering: 1
   mipStripping: 0
@@ -683,7 +683,7 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
   scriptingDefineSymbols:
-    1: VIU_OCULUSVR;VIU_OCULUSVR_AVATAR;VIU_OCULUSVR_1_37_0_OR_NEWER;VIU_OCULUSVR_16_0_OR_NEWER;VIU_OCULUSVR_19_0_OR_NEWER;VIU_XR_GENERAL_SETTINGS;VIU_XR_PACKAGE_METADATA_STORE;VIU_OPENXR;VIU_PLUGIN;VIU_OCULUSVR_DESKTOP_SUPPORT;VIU_OPENVR_SUPPORT
+    1: VIU_OCULUSVR;VIU_OCULUSVR_AVATAR;VIU_OCULUSVR_1_37_0_OR_NEWER;VIU_OCULUSVR_16_0_OR_NEWER;VIU_OCULUSVR_19_0_OR_NEWER;VIU_XR_GENERAL_SETTINGS;VIU_XR_PACKAGE_METADATA_STORE;VIU_OPENXR;VIU_PLUGIN;VIU_OCULUSVR_DESKTOP_SUPPORT;VIU_OPENVR_SUPPORT;SHAPES_URP
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
